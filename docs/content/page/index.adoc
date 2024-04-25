@@ -1,6 +1,12 @@
 ---
-title: Hugo Module AsciiDoc document
+title: Hugo Module AsciiDoc Page
 ---
+
+{{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
+
+A sample site using the Docsy Hugo theme.
+
+{{% /blocks/cover %}}
 
 == Lorem ipsum
 
